@@ -1,0 +1,11 @@
+.app{
+    width : 100%;
+    display: flex;
+    gap: 16px;
+}
+
+.content{
+    background-color: rgba(255, 235, 205, 0.364);
+    flex:1;
+    margin-right: 16px;
+}
